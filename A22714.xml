@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excitacio fidelis ad elemosinam faciendam A b[ea]to Augustino conscripta</title>
+            <title>Excitatio ad eleemosynam faciendam.</title>
+            <author>Augustine, Saint, Bishop of Hippo.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1483</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22714</idno>
+            <idno type="STC">STC 922</idno>
+            <idno type="STC">ESTC S115404</idno>
+            <idno type="EEBO-CITATION">99850623</idno>
+            <idno type="PROQUEST">99850623</idno>
+            <idno type="VID">15836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 910:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Excitacio fidelis ad elemosinam faciendam A b[ea]to Augustino conscripta</title>
+                  <title>Excitatio ad eleemosynam faciendam.</title>
+                  <author>Augustine, Saint, Bishop of Hippo.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Theodoric Rood and Thomas Hunte,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1483?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title, a2r.</note>
+                  <note>Place of publication and printers' names from and publication date conjectured by STC.</note>
+                  <note>Signatures: a.</note>
+                  <note>Imperfect: title page lacking.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity --  Early works to 1800.</term>
+               <term>Good works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15836:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:15836:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>Excitacio fidelis aninie ad ele<g ref="char:EOLhyphen"/>moſinam faciendam &amp; bto<g ref="char:cmbAbbrStroke">̄</g> Au<g ref="char:EOLhyphen"/>guſtino conſcripta.</head>
+            <p>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>N lectione ſancti euange<g ref="char:EOLunhyphen"/>lij hortatus eſt nos dn<g ref="char:cmbAbbrStroke">̄</g>s ad ora<g ref="char:cmbAbbrStroke">̄</g>du<g ref="char:cmbAbbrStroke">̄</g> Petite inquit &amp; dabitur vobis. querite &amp; inuenietis. Pulſate &amp; apietur vobis. Omnis em<g ref="char:cmbAbbrStroke">̄</g> qui petit accipit. &amp; querens inueniet &amp; pulſanti ape<g ref="char:EOLunhyphen"/>rietur. Aut quis eſt ex vobis homo a quo petit filius eius pane<g ref="char:cmbAbbrStroke">̄</g>. nu<g ref="char:cmbAbbrStroke">̄</g>quid lapidem porriget illi. Aut ſi piſcem pecierit. nu<g ref="char:cmbAbbrStroke">̄</g>quid ſerpentem porri<g ref="char:EOLhyphen"/>git ei. Aut cu<g ref="char:cmbAbbrStroke">̄</g> petit ouu<g ref="char:cmbAbbrStroke">̄</g>. ſcorpionem porrigit ei Si ergo vos inquit cu<g ref="char:cmbAbbrStroke">̄</g> ſitis mali. noſtis bona data dare filijs veſtris. quantomagis pr<g ref="char:cmbAbbrStroke">̄</g> ve<g ref="char:EOLhyphen"/>ſter qui incelis. dabit bona petentibus ſe. Cum ſitis inquit mali: noſtis bona data dare filijs veſtris. Miranda res fratres. Mali ſumus bo<g ref="char:EOLunhyphen"/>nu<g ref="char:cmbAbbrStroke">̄</g> patrem habemus. Quid euidencias. Audi<g ref="char:EOLhyphen"/>uimus nomen <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Cu<g ref="char:cmbAbbrStroke">̄</g> ſitis inquit mali. bo<g ref="char:EOLunhyphen"/>na dare noſtis filijs veſtris. Et quos dixit malos. Uidete quale<g ref="char:cmbAbbrStroke">̄</g> patre<g ref="char:cmbAbbrStroke">̄</g> illis oſtendit Qua<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tomagis pater veſter. Quorum pater. Certe maloru<g ref="char:cmbAbbrStroke">̄</g>. Et qualis pater. Nemo bonus: niſi ſo<g ref="char:EOLunhyphen"/>lus deus. Ergo fre<g ref="char:cmbAbbrStroke">̄</g>s. ideo mali bonu<g ref="char:cmbAbbrStroke">̄</g> patrem habimus: ne ſemper mali remaneamus. Nemo
+<pb facs="tcp:15836:2"/>
+               <!-- PDF PAGE 2 -->malus. facit bonum. Si nemo malus facit bo<g ref="char:EOLhyphen"/>num. homo malus quomodo ſe facit bonum: Fa<g ref="char:EOLunhyphen"/>cit de malo bonum: qui ſemper eſt bonus. Sa<g ref="char:EOLhyphen"/>na me inquit domine &amp; ſanabor: Saluum me fac &amp; ſaluus ero. Tu te ſaluum facis: ſi volu<g ref="char:EOLhyphen"/>eris. Sana me domine &amp; ſanabor Nos boni co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>diti ſumus a bono. fecit em<g ref="char:cmbAbbrStroke">̄</g> deus homimem re<g ref="char:EOLhyphen"/>ctum: arbitrio aute<g ref="char:cmbAbbrStroke">̄</g> noſtro facti ſumus mali: Potuimus eſſe ex bonis mali. &amp; poterimus eſſe ex malis boni: Sed qui ſemper e<g ref="char:cmbAbbrStroke">̄</g> bonus. ipſe fa<g ref="char:EOLunhyphen"/>cit ex malo bonum: quia ipſe homo volu<g ref="char:cmbAbbrStroke">̄</g>tate ſua ſanare ſe non potuit. Non queris medicum vt vulneres te: queris qui ſanet te. Boni ergo ſe<g ref="char:EOLhyphen"/>cundu<g ref="char:cmbAbbrStroke">̄</g> tempus. bona temporalia. corporalia. car<g ref="char:EOLunhyphen"/>nalia. nonimus dare filijs nr<g ref="char:cmbAbbrStroke">̄</g>is. etia<g ref="char:cmbAbbrStroke">̄</g> cum ſimꝰ meli. Bona enim ſunt. &amp; iſta. Quis dubitet: Piſcis. ouum. panis. pomum. frumentum. lux iſta. aer iſte quem ducimus: bona ſunt: hec ipſe diuicie in quibus homines extolluutur. &amp; pa<g ref="char:EOLhyphen"/>res ſuos homines alios non agnoſtunt: Ma<g ref="char:EOLhyphen"/>gis amantem veſtem fulgentem. quam cogitan<g ref="char:EOLunhyphen"/>tes co<g ref="char:cmbAbbrStroke">̄</g>munem autem. Ipſe ergo diuitie bone ſunt: ſed iſta omnia bona que co<g ref="char:cmbAbbrStroke">̄</g>memoraui a bo<g ref="char:EOLunhyphen"/>nis &amp; malis haberi poſſunt. Et cum bona ſunt bonos tamen facere non poſſunt. Eſt ergo bonu<g ref="char:cmbAbbrStroke">̄</g> quod faciat bonum. Et eſt bonum vnde facies bonum. Bonum quod faciat bonum: deus eſt<g ref="char:punc">▪</g>
+               <pb facs="tcp:15836:2"/>
+               <!-- PDF PAGE 2 -->Non enim facit hominem bonum: niſi ille qui ſemper eſt bonus. Ergo vt ſis bonus: de<g ref="char:EOLunhyphen"/>um inuoca. Aliud aute<g ref="char:cmbAbbrStroke">̄</g> bonum eſt. vnde faci<g ref="char:EOLhyphen"/>es bonu<g ref="char:cmbAbbrStroke">̄</g>: ide<g ref="char:cmbAbbrStroke">̄</g> quicquid habueris aurum e<g ref="char:cmbAbbrStroke">̄</g>. argen<g ref="char:EOLunhyphen"/>tum eſt. bonum eſt. non quod te faciat bonum. ſed vnde facies bonum. Habes aurum. habes argentum: &amp; concupiſcis. aurum &amp; concupi<g ref="char:EOLhyphen"/>ſcis argentu<g ref="char:cmbAbbrStroke">̄</g> &amp; habes et ꝯcupiſcis &amp; plenꝰ es &amp; ſitis: morbus eſt. &amp; non opulentia. Sunt ho<g ref="char:EOLunhyphen"/>mines in morbo. humore pleni ſunt: &amp; humo<g ref="char:EOLhyphen"/>rem ſiciunt. Quomodo ergo delectas opulen<g ref="char:EOLhyphen"/>tiam. qui habes hyridropem concupiſtentiam Habes ergo aurum. bonum eſt. habes no<g ref="char:cmbAbbrStroke">̄</g> vnde ſis bonus: ſed vnde facias bonu<g ref="char:cmbAbbrStroke">̄</g> Quod bonum inquis facturus ſum de auro: Non audiſti pſal<g ref="char:EOLhyphen"/>mum: Diſperſit inquit dedit pauperibus. iuſti<g ref="char:EOLhyphen"/>cia eius manet in ſeculum ſeculi. Hoc eſt bo<g ref="char:EOLhyphen"/>num. vnde bonus es iuſtida. Si habes bonu<g ref="char:cmbAbbrStroke">̄</g> vnde ſis bonus: fac bonum de bono. vnde non es bonus: habes pecuniam eroga. Erogando pecumam: auges iuſticiam. Diſperſit enim. di<g ref="char:EOLhyphen"/>ſtribuit. dedit pauperibus: Iuſticia eius ma<g ref="char:EOLhyphen"/>net in ſeculum ſeculi. Uide quid minuitur: Et quid augetur. Minuitur pecunia. augetur iuſti<g ref="char:EOLunhyphen"/>cia. Illud minuitur quod eras dimiſſurus. Il<g ref="char:EOLunhyphen"/>lud minuitur quod eras relicturus: Illud au<g ref="char:EOLhyphen"/>get
+<pb facs="tcp:15836:3"/>
+               <!-- PDF PAGE 3 -->ꝙ ineternu<g ref="char:cmbAbbrStroke">̄</g> es poſſeſſurus. Co<g ref="char:cmbAbbrStroke">̄</g>ſiliu<g ref="char:cmbAbbrStroke">̄</g> do luct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tu<g ref="char:cmbAbbrStroke">̄</g> diſce mercari Laudas em<g ref="char:cmbAbbrStroke">̄</g> mercatore<g ref="char:cmbAbbrStroke">̄</g> q<hi rend="sup">i</hi> vendit plu<g ref="char:cmbAbbrStroke">̄</g>bu<g ref="char:cmbAbbrStroke">̄</g> &amp; adq<hi rend="sup">i</hi>rit auru<g ref="char:cmbAbbrStroke">̄</g>: et n<g ref="char:cmbAbbrStroke">̄</g> laudas mercatore<g ref="char:cmbAbbrStroke">̄</g> qui erogat pecunia<g ref="char:cmbAbbrStroke">̄</g>. &amp; adq<hi rend="sup">i</hi>rit iuſtitia<g ref="char:cmbAbbrStroke">̄</g>: Sed ego inq<hi rend="sup">i</hi>s non erogo pecuniam: qui non habeo iuſticiam. Eroget pecuniam: qui habet iuſticiam. Ego iuſticiam non haebo: habeam vel pecuniam Er<g ref="char:EOLunhyphen"/>go quia non habes iuſticiam: ideo non vis ero<g ref="char:EOLunhyphen"/>gare pecuniam. Magis eroga pecuniam: vt ha<g ref="char:EOLhyphen"/>beas iuſticiam. A quo enim habebis iuſticiam niſi a deo fonte iuſticie: Ergo ſi vis habere iuſti<g ref="char:EOLunhyphen"/>ciam: eſto mendicus dei. Qui te pauloante ex euangelio vt peteres. quereres. pulſares mone<g ref="char:EOLunhyphen"/>bat. mendicum ſuum ſtiebat. Et ecce paterfa<g ref="char:EOLhyphen"/>milias. et magnus diues diuicirum ſcm ſpiri<g ref="char:EOLhyphen"/>tualium. et eternarum. hortatur: et dicit, tibi. Pete. quere. pulſa. Qui petit accipit. querens inuemet et pulſanti aperietur. Hortatur vt pe<g ref="char:EOLunhyphen"/>tas. negabit quod petis Attendite a contra<g ref="char:EOLhyphen"/>rio ſimilitudinem rel comparationem ſicut de illo diuite in quo hortantem nos ad orationem quando ait dominus. Erat quidam iudex in ci<g ref="char:EOLhyphen"/>uitate, qui nec dominum timebat. nec hominem reuerebatur. Quedam vidua interpellabat coti<g ref="char:EOLunhyphen"/>die eum. et dicebat Uindica me. Nolebat ille ꝑ multum tempus illa interpellare non deſine<g ref="char:EOLhyphen"/>bat.
+<pb facs="tcp:15836:3"/>
+               <!-- PDF PAGE 3 -->Et facit tedio quod nolebat beneficio Si<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enim a contrario nos a<g ref="char:cmbAbbrStroke">̄</g>monuit vt petamus. venit inquit ad amicum ſuum cui hoſpes vene<g ref="char:EOLhyphen"/>rat &amp; cepit pulſare &amp; dicere. Hoſpes michi veit co<g ref="char:cmbAbbrStroke">̄</g>moda michi tres panes. Reſpondit illi. iam requieſco. &amp; mecum ſerui mei requieſtunt. Ille non ceſſat. adſtat. inſtat. pulſat &amp; tam<g ref="char:cmbAbbrStroke">̄</g> amicus ab amico mendicat. Et quid ait Dico vobis q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſurgit &amp; non propter amiciciam eius. ſed prop<g ref="char:EOLunhyphen"/>ter improbitatem dat illi quantos voluerit. no<g ref="char:cmbAbbrStroke">̄</g> propter amiciciam qua<g ref="char:cmbAbbrStroke">̄</g>uis amicus ſit ſed prop<g ref="char:EOLunhyphen"/>ter inprobitatem. Quid eſt propter improbita<g ref="char:EOLhyphen"/>tem Quia pulſare non deſtitit. Quia et cu<g ref="char:cmbAbbrStroke">̄</g> eſſet negatu<g ref="char:cmbAbbrStroke">̄</g> no<g ref="char:cmbAbbrStroke">̄</g> ſe auertit. Ille qui nolebat dare <abbr>qd</abbr> petebatur fecit <choice>
+                  <abbr>qr</abbr>
+                  <expan>quia</expan>
+               </choice> ille in pete<g ref="char:cmbAbbrStroke">̄</g>do no<g ref="char:cmbAbbrStroke">̄</g> defecit. Qua<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tomagis dabit bonus qui nos <abbr>hortat</abbr> vt peta<g ref="char:EOLhyphen"/>mus. cui diſplicet ſi n<g ref="char:cmbAbbrStroke">̄</g> petamꝰ. Sm cu<g ref="char:cmbAbbrStroke">̄</g> aliqua<g ref="char:cmbAbbrStroke">̄</g>do tardius dat ꝯme<g ref="char:cmbAbbrStroke">̄</g>dat dona no<g ref="char:cmbAbbrStroke">̄</g> negat. Diu deſide<g ref="char:EOLhyphen"/>rata dulcius <abbr>obtine<g ref="char:cmbAbbrStroke">̄</g>t</abbr> cito au<g ref="char:cmbAbbrStroke">̄</g>t data vileſtu<g ref="char:cmbAbbrStroke">̄</g>t Pete q<g ref="char:cmbAbbrStroke">̄</g>re. iuſta pete<g ref="char:cmbAbbrStroke">̄</g>do &amp; q<g ref="char:cmbAbbrStroke">̄</g>rendo creſcis vt capias p<hi rend="sup">i</hi>uat tibi deus <abbr>qd</abbr> n<g ref="char:cmbAbbrStroke">̄</g> vuit cito dare vt &amp; tu diſcas mag<g ref="char:EOLunhyphen"/>na magne <abbr>deſidare</abbr> io<g ref="char:cmbAbbrStroke">̄</g> om ſꝑ orare. &amp; n<g ref="char:cmbAbbrStroke">̄</g> deficere. ſi ergo fre<g ref="char:cmbAbbrStroke">̄</g>s mei m<g ref="char:cmbAbbrStroke">̄</g>dicos ſuos nos fecit <abbr>ds</abbr> mone<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>do &amp; horta<g ref="char:cmbAbbrStroke">̄</g>do nos &amp; iube<g ref="char:cmbAbbrStroke">̄</g>do vt petamus q<g ref="char:cmbAbbrStroke">̄</g>ramus pulſemus. attendamus &amp; nos. qui a noꝭ petu<g ref="char:cmbAbbrStroke">̄</g>t Petimus nos. Et quo petimꝰ Quid petimꝰ
+<pb facs="tcp:15836:4"/>
+               <!-- PDF PAGE 4 -->A quo. vel qui. vel quid petimus: Petimus a deo bono: Petimus homines mali. petimus e<g ref="char:cmbAbbrStroke">̄</g>t iuſticia<g ref="char:cmbAbbrStroke">̄</g> vnde ſimus boni. Hoc ergo petimꝰ quod ineternum habeamus. Quo cum ſatura<g ref="char:EOLhyphen"/>ti fuerimus vlterius non egeamus: ſed vt ſatu<g ref="char:EOLunhyphen"/>remur. eſuriamus &amp; ſitiamus: eſuriendo &amp; fici<g ref="char:EOLhyphen"/>endo. Petamus. queramus. pulſemus. Beati enim qui eſuriunt &amp; ſiciunt iuſticiam. Quare be<g ref="char:EOLunhyphen"/>ati eſuriunt &amp; ſiciunt. &amp; beati ſunt: Aliquando egeſtas beata eſt. Non enim beati ſunt quia eſu<g ref="char:EOLunhyphen"/>riunt &amp; ſiciunt: ſed quia ipſi ſaturabuntur. Ibi erit beatitudo in ſaturitate: non in fame. Sed precedat ſaturitatem fames. ne faſtidium non perueniat ad panes. Ergo diximus. a quo pe<g ref="char:EOLhyphen"/>tamus. qui petamus quid petamus: Sed pe<g ref="char:EOLhyphen"/>titur &amp; a nobis. Menditi enim dei ſumus. Vt cognoſcat ille mendicos ſuos. agnoſcamus et nos noſtros. Sed et ibi etiam cogitemus. quando petitur a nobis: qui petu<g ref="char:cmbAbbrStroke">̄</g>t a quibus pe<g ref="char:EOLunhyphen"/>tunt: homines. A quibus petunt. ab hominibꝰ Qui petunt: Mortales A quibus petunt: A mortalibus. Qui petunt: fragiles. A quibus petunt: A fragilibus. Qui petunt: Miſeri. A quibus: A miſeris. Excepta ſubſtancia facul<g ref="char:EOLhyphen"/>tatum tales ſunt qui petunt: quales ſunt a. quibus petunt<g ref="char:punc">▪</g> Quam frontem habes petendo
+<pb facs="tcp:15836:4"/>
+               <!-- PDF PAGE 4 -->ad dominum tuum. qui non agnoſcis pa<g ref="char:EOLhyphen"/>trem tuum: Non ſum inquit talis: Abſit a me vt talis ſim. Inflatus obſericatus iſta lo<g ref="char:EOLhyphen"/>quitur de pannoſo. Sed ego nudos interrogo Non interrogo in veſtibus quales ſitis. ſed quales nati fueritis. Ambo nudi. ambo infir<g ref="char:EOLhyphen"/>mi. ambo miſeram vitam inchoantes. Ideo am<g ref="char:EOLunhyphen"/>bo plorantes. Ecce recole diues primordia tua. vide vtrum huc aliquid attuleris. Iam ve<g ref="char:EOLunhyphen"/>niſti. &amp; tanta inueniſti. Dic rogo te quid attu<g ref="char:EOLhyphen"/>liſti. dic quid attuleris. Aut ſi dicere erubeſcis, apoſtolum audi. Nichil inquit intulimus in hunc mundum. Sed forte quia nichil attuli<g ref="char:EOLhyphen"/>ſti. et hic multa inueniſti. aliquid hinc tecum ablaturus es. Et hic fortaſſe amore diuiciarum trepidas confiteri. audi et hoc. Et hoc apoſto<g ref="char:EOLhyphen"/>lus dicat. qui te non palpat. Nichil intulimus in hunc mundum. Vti<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quando nati ſumus. ſed nec auferre aliquid poſſumus. vti<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quando de mundo eximus. Nichil attuliſti. Nichil hinc auferes quid te inflas contra pauperem Qua<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>do naſcuntur infantes. recedant de medio paren<g ref="char:EOLunhyphen"/>tes. ſerui clientes. Recedant de medio. turbe obſequentes. Et agnoſca<g ref="char:cmbAbbrStroke">̄</g>t etiam pueri diui<g ref="char:EOLhyphen"/>tes flentes. Pariant ſimul diues et pauper. Pariant ſimul mulier diues. et mulier pauper
+<pb facs="tcp:15836:5"/>
+               <!-- PDF PAGE 5 -->Non attendant quod pariunt. diſcedat &amp; pau<g ref="char:EOLhyphen"/>lulum: redeant &amp; cognoſcant. Ecce diues nihil attuliſti in hunc mundum: ſed nec auferre hinc aliquid potes. Quod dixi de natis: hoc dico de mortuis. Certe quando aliquo caſu. vetera ſe<g ref="char:EOLhyphen"/>pulchra frangu<g ref="char:cmbAbbrStroke">̄</g>tur: oſſa diuitis non agnoſcun<g ref="char:EOLhyphen"/>tur. Ergo diues audi apoſtolum: nichil intuli<g ref="char:EOLhyphen"/>mus in hunc mundum. Agnoſce verum eſt. Sed nec auferre aliquid poſſumus. Agnoſce. &amp; hoc verum eſt. Quid ergo ſequitur: Victum et tegumentum habentes: hijs contenti ſimus.</p>
+            <p>Nam qui volunt diuites fieri. incidunt in te<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>taciones et deſideria multa &amp; noxia: que mer<g ref="char:EOLhyphen"/>gunt hominem in interitum &amp; perdicionem Ra<g ref="char:EOLunhyphen"/>dix enim onnium malorum auaricia: qua<g ref="char:cmbAbbrStroke">̄</g> qui<g ref="char:EOLhyphen"/>dam ſequentes a fide pererraueru<g ref="char:cmbAbbrStroke">̄</g>t. Attende quid dimiſerunt. Doles quia hoc dimiſeru<g ref="char:cmbAbbrStroke">̄</g>t: vi<g ref="char:EOLunhyphen"/>de quo ſe inſeruerunt. Audi a fide ꝑerraueru<g ref="char:cmbAbbrStroke">̄</g>t. &amp; inſerueru<g ref="char:cmbAbbrStroke">̄</g>t ſe doloribus multis. Sed qui. Qui volunt diuites fieri. Aliud. eſt eſſe diuitem aliud relle fieri diuitem. Diues eſt qui de diuiti<g ref="char:EOLunhyphen"/>bus natus eſt: non quia voluit. Diues. eſt: <choice>
+                  <abbr>qr</abbr>
+                  <expan>quia</expan>
+               </choice> multi hereditates dimiſerunt. Dideo facultates non interrogo voluptates. Hic cupiditas accu<g ref="char:EOLunhyphen"/>ſatur: non aurum. non argentum. non diuicie: ſed cupiditas. Nam qui volunt diuites fieri.
+<pb facs="tcp:15836:5"/>
+               <!-- PDF PAGE 5 -->vel qui curant. n<g ref="char:cmbAbbrStroke">̄</g>on ardent cupiditatibus. non auaricie facibus accenduntur. ſed diuites ſunt: audiant apoſtolum hodie lectum eſſe. precipe di<g ref="char:EOLunhyphen"/>nitibus huius mundi. Precipe. Quid precipe: Ante omnia non ſuperbe. ſapere. Nichil. eſt. enim quod ſic generent diuicie: quomodo ſuper<g ref="char:EOLhyphen"/>biam. Omne pomum. omne granum. omne frumentum: omne lignum habet vermem ſuum Et alius eſt vermis mali. alius piri. alius fa<g ref="char:EOLunhyphen"/>be. alius tritici: vermis diuiciarum ſuperbia. Ergo precipe diuitibus huius mundi: non ſu<g ref="char:EOLhyphen"/>perbe ſapere. Excluſit vicium. doceat vſum: non ſuperbe ſapere. Vnde autem ſuperbe ſapere: De eo quod ſequitur. ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſperare in incerto diui<g ref="char:EOLhyphen"/>ciarum. Qui non ſperant in incerto diuicia<g ref="char:EOLhyphen"/>rum: unon ſuperbe ſapiunt. Si non altum fa<g ref="char:EOLhyphen"/>piuut: timent. Si timent non altum fapiunt Quam multi heri diuites: hodie pauperes. Quam multi dormiunt diuites: et fubito ve<g ref="char:EOLhyphen"/>nientibus latronibus &amp; cuncta auferentibus<g ref="char:punc">▪</g> euigilant pauperes. Ergo non ſperare in in<g ref="char:EOLhyphen"/>certo diuitiarum. ſed in deo viuo. qui preſ<g ref="char:EOLhyphen"/>tat nobis omnia habundanter ad fruen<g ref="char:EOLhyphen"/>dum temporalia et eterna. Sed magis ad fruendum eterna. Ad vtendum tempora<g ref="char:EOLhyphen"/>lia. Temporalia tanquam viatoribus.</p>
+            <p>
+               <pb facs="tcp:15836:6"/>
+               <!-- PDF PAGE 6 -->
+Eterna tanquam habitatoribus. Tempora<g ref="char:EOLunhyphen"/>lia vnde faciamus bona. eterna vnde efficia<g ref="char:EOLhyphen"/>mur boni. Ergo hoc faciunt diuites. Non ſuperbe ſapiant. ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſperent in incerto diui<g ref="char:EOLhyphen"/>tiarum. ſed in deo viuo qui preſtat nobis omnia habundanter ad fruendum hoc faciant Ex eo aute<g ref="char:cmbAbbrStroke">̄</g> quod habent quid faciant: Audi quid. Diuites fint in operibus bomis: facile, tri<g ref="char:EOLunhyphen"/>buant. Facile em<g ref="char:cmbAbbrStroke">̄</g>. habent enim vnde. Quare no<g ref="char:cmbAbbrStroke">̄</g> faciunt Paupertas difficultas eſt: facile tribu<g ref="char:EOLunhyphen"/>ant. habent vnde co<g ref="char:cmbAbbrStroke">̄</g>municent: id. eſt. pares ſu<g ref="char:EOLhyphen"/>os mortales agnoſcant. communicent. theſau<g ref="char:EOLunhyphen"/>rizent ſibi fundamentum bonum in futurum. Non enim quia dico inquit facile tribuant. co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>municent: expoliare illos volo. nudare illos vo<g ref="char:EOLunhyphen"/>lo. inanes relinquere volo. Doceo lucrum. cum oſtendo. theſaurizent ſibi. Non enim volo vt pauperes remaneant: theſaurizent ſibi. non vt perdant dico: fed quo migrant oſtendo. Theſau<g ref="char:EOLunhyphen"/>rizent ſibi fundamentum bonum in futurum. vt apprehendant reram vitam. Hec ergo falſa vita eſt. vt apprehendant veram vitam. Dam<g ref="char:EOLhyphen"/>tas enim vanitatum &amp; omnia vanitas. Que habundancia tanta hominis in omni labore ſuo quo ipſe laborat ſub ſole Apprehende<g ref="char:cmbAbbrStroke">̄</g>da e<g ref="char:cmbAbbrStroke">̄</g> ergo vera vita: migra<g ref="char:cmbAbbrStroke">̄</g>de ſunt facultates nre<g ref="char:cmbAbbrStroke">̄</g> ad locum
+<pb facs="tcp:15836:6"/>
+               <!-- PDF PAGE 6 -->
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e vite. Vt hic ibi inueniamus quod hic da<g ref="char:EOLhyphen"/>mus. Mutat illa: Qui mutat et nos.</p>
+            <p>Date ergo pauperibus fratres mei vic<g ref="char:EOLhyphen"/>tum &amp; tegumentum: his contenti fimus. Nihil diues habet de diuicijs ſuis. niſi quod ab illo poſtulat pauper: victum. &amp; tegumentum. Hinc plus tu quid habes. ex omnibus que habes: Accepiſti victum. accepiſti neceſſarium. neceſſa<g ref="char:EOLhyphen"/>rium dico. non inane. non ſuperfluum. Quid plus de diuicijs tuis capis: Dic michi. Certe omnia ſuperflua tua eru<g ref="char:cmbAbbrStroke">̄</g>t. Que ſunt tua ſuper<g ref="char:EOLhyphen"/>flua: ſint pauperibus neceſſaria. Sed ego in<g ref="char:EOLhyphen"/>quis precioſas epulas accipio: precioſis cibies beſtor. Pauper quid: Vilibus. Vilibus cibies reſtitur pauper: ego inquit preciofis. Interro<g ref="char:EOLhyphen"/>go vos quando fueritis ambo ſaciati. Precio<g ref="char:EOLhyphen"/>ſus cibus ad te intrat Quid fit cum intrauerit Nonne ſi ſpecularia in ventre haberemus. de om<g ref="char:EOLunhyphen"/>nibus precioſis cibis erubeſceremus: quibus ſaturatus es: Eſurit pauper: eſurit diues. Sa<g ref="char:EOLunhyphen"/>turari querit pauper: ſaturari querit diues Sa<g ref="char:EOLunhyphen"/>turatur pauper de vilibus cibis: ſaturatur di<g ref="char:EOLhyphen"/>ues precioſis cibis. Saturitas equalis eſt: poſſeſſio vna eſt quo ambo volunt peruenire: ſed ille per compeudium ille ciruit. Sed melius in quit modo ſapiunt apꝑata <g ref="char:abpre">p̄</g>cioſa. vix faſtidio<g ref="char:EOLunhyphen"/>fus faciatis: neſtis quomodo ſapit <abbr>qd</abbr> fames
+<pb facs="tcp:15836:7"/>
+               <!-- PDF PAGE 7 -->de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endit. Ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> hoc ita dixi: vt diuites co<g ref="char:cmbAbbrStroke">̄</g>ga<g ref="char:cmbAbbrStroke">̄</g> ep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lis &amp; cibis pauperu<g ref="char:cmbAbbrStroke">̄</g> veſci. Vtantur diuites con<g ref="char:EOLunhyphen"/>ſuetudine infirmitatis ſue: ſed doleant aliter ſe non poſſe. Melius eni<g ref="char:cmbAbbrStroke">̄</g> poſſint: ſi aliter poſſint. ſi ergo non extollitu<g ref="char:cmbAbbrStroke">̄</g>t pauꝑ de mendicitate. tu q<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>re extolleris de infirmitate Vte<g ref="char:cmbAbbrStroke">̄</g> cibis electis. <g ref="char:abpre">p̄</g>cioſis. <choice>
+                  <abbr>qr</abbr>
+                  <expan>quia</expan>
+               </choice> ſic conſueſti: <choice>
+                  <abbr>qr</abbr>
+                  <expan>quia</expan>
+               </choice> alia aliter non potes. <choice>
+                  <abbr>qr</abbr>
+                  <expan>quia</expan>
+               </choice> ſi conſuetudinem mutes. egrotas. Toncedi<g ref="char:EOLhyphen"/>tur tibi. vtere ſuꝑfluis: da panꝑibus neceſſaria Vtere precioſis: da vilia. Expectat a te: expe<g ref="char:EOLhyphen"/>ctat a deo. Expect at ille manu<g ref="char:cmbAbbrStroke">̄</g> que facta eſt ſecu<g ref="char:cmbAbbrStroke">̄</g> expectas tu manu<g ref="char:cmbAbbrStroke">̄</g> que fecit te: ſed non ſolum te fecit. ſed et pauꝑem tecu<g ref="char:cmbAbbrStroke">̄</g>. Dedit nobis iſtam vi<g ref="char:EOLunhyphen"/>tam. vnam vitam. Inuemſtis vos comites. vna<g ref="char:cmbAbbrStroke">̄</g> viam ambulatis Ille nichil portat. tu nimi<g ref="char:EOLunhyphen"/>u<g ref="char:cmbAbbrStroke">̄</g>m oneratus es Ille nichil ſecu<g ref="char:cmbAbbrStroke">̄</g> portat: tu ite<g ref="char:EOLunhyphen"/>rum plus portas qua<g ref="char:cmbAbbrStroke">̄</g> opus eſt Oneratus es: da illi de eo <abbr>qd</abbr> habes. &amp; allum pafcis: &amp; pondus minuis. Date ergo pauꝑibus rogo. moneo. <g ref="char:abpre">p̄</g>cipio. iubeo: quicquid vultis. date pauꝑiꝰ No<g ref="char:cmbAbbrStroke">̄</g> enim occultabo caritati vr<g ref="char:cmbAbbrStroke">̄</g>e: quare hunc fer mo<g ref="char:EOLhyphen"/>nem neceſſe habui vobis ꝓmere. Exquo hinc fumus euntes ad eccleſiam &amp; redeuntes. paupe<g ref="char:EOLhyphen"/>res uos interpellant &amp; dicunt vt dicamus voꝭ vt aliquid accipiant a vobis. Nos monueru<g ref="char:cmbAbbrStroke">̄</g>t loqui vobis. &amp; ſe vident non acciꝑe a vobis. in aniter nos arbitrantur laborare in vobis.
+<pb facs="tcp:15836:7"/>
+               <!-- PDF PAGE 7 -->Expectant aliquid &amp; a nobis. Damus quantu<g ref="char:cmbAbbrStroke">̄</g> habemus: damus ſicut poſſumus. Nu<g ref="char:cmbAbbrStroke">̄</g>quid tu<g ref="char:cmbAbbrStroke">̄</g> ad eorum neceſſitatem implendam ydonei ſumꝰ Quia ergo ad eorum neceſſitatem implendam idonei non ſumus: vel ad nos ipſorum legati ſu<g ref="char:EOLunhyphen"/>mus. Audiſtis. laudaſtis. deo gratias. Seme<g ref="char:cmbAbbrStroke">̄</g> accepiſtis. verba redidiſtis Laudes iſte vr<g ref="char:cmbAbbrStroke">̄</g>e gra<g ref="char:EOLunhyphen"/>u ant vos pocius. &amp; in ꝑiculum mittunt Tole<g ref="char:EOLhyphen"/>ramus illas: &amp; tremimꝰ inter illas. tam<g ref="char:cmbAbbrStroke">̄</g> fre<g ref="char:cmbAbbrStroke">̄</g>s mei iſte laudes reſtre folia ſunt arborum fructꝰ queritur.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
